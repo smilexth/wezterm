@@ -2,7 +2,7 @@
 
 **Feature Branch**: `003-custom-icon`
 **Created**: 2026-03-22
-**Status**: Draft
+**Status**: Complete (closed 2026-08-27 — docs + icons delivered, merged to main)
 **Input**: User description: "change icon of wezterm"
 
 ## Research Findings
